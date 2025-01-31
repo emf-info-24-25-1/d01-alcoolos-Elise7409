@@ -20,4 +20,5 @@ public class Amis {
         System.out.println(nom + " boira une bière");
         System.out.println(nom + " peut encore boire : " + nbrBierreSupporter + " bières");
     }
+    
 }

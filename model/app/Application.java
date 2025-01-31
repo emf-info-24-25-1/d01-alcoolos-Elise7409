@@ -7,7 +7,6 @@ public class Application {
         ami1.boitUneBierre();
         ami2.boitUneBierre();
         ami3.boitUneBierre();
-
         
     }
 }
