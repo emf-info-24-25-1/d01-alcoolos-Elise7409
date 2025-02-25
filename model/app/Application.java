@@ -7,6 +7,13 @@ public class Application {
         ami1.boitUneBierre();
         ami2.boitUneBierre();
         ami3.boitUneBierre();
+
+        //Correction
+        Ami amis = new Ami("Bob", 2);
+        Ami amis2 = new Ami("ff", 5);
+        Ami amis3 = new Ami("gg", 3);
+
+        amis.boitUneBierre();
         
     }
 }
